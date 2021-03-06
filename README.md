@@ -5,3 +5,7 @@ Webサイト作成練習
 - www > index.html
 
 You can view the web site I have created
+
+not public
+
+download file is template
